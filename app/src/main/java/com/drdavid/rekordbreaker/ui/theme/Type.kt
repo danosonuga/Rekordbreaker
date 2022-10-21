@@ -1,4 +1,4 @@
-package com.alabian.rekordbreaker.ui.theme
+package com.drdavid.rekordbreaker.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

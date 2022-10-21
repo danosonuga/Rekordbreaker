@@ -1,4 +1,4 @@
-package com.alabian.rekordbreaker
+package com.drdavid.rekordbreaker
 
 import org.junit.Test
 
